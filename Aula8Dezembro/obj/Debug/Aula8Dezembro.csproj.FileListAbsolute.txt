@@ -1,0 +1,13 @@
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\bin\Debug\Aula8Dezembro.exe.config
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\bin\Debug\Aula8Dezembro.exe
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\bin\Debug\Aula8Dezembro.pdb
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.csproj.AssemblyReference.cache
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.csproj.SuggestedBindingRedirects.cache
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.Properties.Resources.resources
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.csproj.GenerateResource.cache
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.exe
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.pdb
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.Form1.resources
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.Form2.resources
+C:\Users\amanda.ilucrecio\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.Form3.resources
